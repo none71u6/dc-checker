@@ -1,1 +1,65 @@
-{"updated": "データ未取得", "machines": []}
+{
+  "updated": "2026-03-12 14:00",
+  "machines": [
+    {
+      "dai": 178,
+      "error": true
+    },
+    {
+      "dai": 179,
+      "error": true
+    },
+    {
+      "dai": 180,
+      "error": true
+    },
+    {
+      "dai": 181,
+      "error": true
+    },
+    {
+      "dai": 182,
+      "error": true
+    },
+    {
+      "dai": 183,
+      "error": true
+    },
+    {
+      "dai": 184,
+      "error": true
+    },
+    {
+      "dai": 185,
+      "error": true
+    },
+    {
+      "dai": 186,
+      "error": true
+    },
+    {
+      "dai": 187,
+      "error": true
+    },
+    {
+      "dai": 188,
+      "error": true
+    },
+    {
+      "dai": 189,
+      "error": true
+    },
+    {
+      "dai": 190,
+      "error": true
+    },
+    {
+      "dai": 191,
+      "error": true
+    },
+    {
+      "dai": 192,
+      "error": true
+    }
+  ]
+}
