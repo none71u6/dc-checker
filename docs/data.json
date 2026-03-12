@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-13 00:54",
+  "updated": "2026-03-13 01:08",
   "machines": [
     {
       "dai": 178,
@@ -19,316 +19,80 @@
       },
       "hyena": {
         "target": false,
-        "reason": "データなし"
+        "reasons": [
+          "データなし"
+        ]
       },
       "block": "A"
     },
     {
       "dai": 179,
-      "error": false,
-      "history_count": 0,
-      "counts": {
-        "bonus": 0,
-        "big": 0,
-        "reg": 0,
-        "gosei": null
-      },
-      "current_diff": null,
-      "setting6": {
-        "score": 0,
-        "label": "⚪ 低設定の可能性",
-        "reasons": []
-      },
-      "hyena": {
-        "target": false,
-        "reason": "データなし"
-      },
+      "error": true,
       "block": "A"
     },
     {
       "dai": 180,
-      "error": false,
-      "history_count": 0,
-      "counts": {
-        "bonus": 0,
-        "big": 0,
-        "reg": 0,
-        "gosei": null
-      },
-      "current_diff": null,
-      "setting6": {
-        "score": 0,
-        "label": "⚪ 低設定の可能性",
-        "reasons": []
-      },
-      "hyena": {
-        "target": false,
-        "reason": "データなし"
-      },
+      "error": true,
       "block": "A"
     },
     {
       "dai": 181,
-      "error": false,
-      "history_count": 0,
-      "counts": {
-        "bonus": 0,
-        "big": 0,
-        "reg": 0,
-        "gosei": null
-      },
-      "current_diff": null,
-      "setting6": {
-        "score": 0,
-        "label": "⚪ 低設定の可能性",
-        "reasons": []
-      },
-      "hyena": {
-        "target": false,
-        "reason": "データなし"
-      },
+      "error": true,
       "block": "A"
     },
     {
       "dai": 182,
-      "error": false,
-      "history_count": 0,
-      "counts": {
-        "bonus": 0,
-        "big": 0,
-        "reg": 0,
-        "gosei": null
-      },
-      "current_diff": null,
-      "setting6": {
-        "score": 0,
-        "label": "⚪ 低設定の可能性",
-        "reasons": []
-      },
-      "hyena": {
-        "target": false,
-        "reason": "データなし"
-      },
+      "error": true,
       "block": "A"
     },
     {
       "dai": 183,
-      "error": false,
-      "history_count": 0,
-      "counts": {
-        "bonus": 0,
-        "big": 0,
-        "reg": 0,
-        "gosei": null
-      },
-      "current_diff": null,
-      "setting6": {
-        "score": 0,
-        "label": "⚪ 低設定の可能性",
-        "reasons": []
-      },
-      "hyena": {
-        "target": false,
-        "reason": "データなし"
-      },
+      "error": true,
       "block": "A"
     },
     {
       "dai": 184,
-      "error": false,
-      "history_count": 0,
-      "counts": {
-        "bonus": 0,
-        "big": 0,
-        "reg": 0,
-        "gosei": null
-      },
-      "current_diff": null,
-      "setting6": {
-        "score": 0,
-        "label": "⚪ 低設定の可能性",
-        "reasons": []
-      },
-      "hyena": {
-        "target": false,
-        "reason": "データなし"
-      },
+      "error": true,
       "block": "A"
     },
     {
       "dai": 185,
-      "error": false,
-      "history_count": 0,
-      "counts": {
-        "bonus": 0,
-        "big": 0,
-        "reg": 0,
-        "gosei": null
-      },
-      "current_diff": null,
-      "setting6": {
-        "score": 0,
-        "label": "⚪ 低設定の可能性",
-        "reasons": []
-      },
-      "hyena": {
-        "target": false,
-        "reason": "データなし"
-      },
+      "error": true,
       "block": "A"
     },
     {
       "dai": 186,
-      "error": false,
-      "history_count": 0,
-      "counts": {
-        "bonus": 0,
-        "big": 0,
-        "reg": 0,
-        "gosei": null
-      },
-      "current_diff": null,
-      "setting6": {
-        "score": 0,
-        "label": "⚪ 低設定の可能性",
-        "reasons": []
-      },
-      "hyena": {
-        "target": false,
-        "reason": "データなし"
-      },
+      "error": true,
       "block": "B"
     },
     {
       "dai": 187,
-      "error": false,
-      "history_count": 0,
-      "counts": {
-        "bonus": 0,
-        "big": 0,
-        "reg": 0,
-        "gosei": null
-      },
-      "current_diff": null,
-      "setting6": {
-        "score": 0,
-        "label": "⚪ 低設定の可能性",
-        "reasons": []
-      },
-      "hyena": {
-        "target": false,
-        "reason": "データなし"
-      },
+      "error": true,
       "block": "B"
     },
     {
       "dai": 188,
-      "error": false,
-      "history_count": 0,
-      "counts": {
-        "bonus": 0,
-        "big": 0,
-        "reg": 0,
-        "gosei": null
-      },
-      "current_diff": null,
-      "setting6": {
-        "score": 0,
-        "label": "⚪ 低設定の可能性",
-        "reasons": []
-      },
-      "hyena": {
-        "target": false,
-        "reason": "データなし"
-      },
+      "error": true,
       "block": "B"
     },
     {
       "dai": 189,
-      "error": false,
-      "history_count": 0,
-      "counts": {
-        "bonus": 0,
-        "big": 0,
-        "reg": 0,
-        "gosei": null
-      },
-      "current_diff": null,
-      "setting6": {
-        "score": 0,
-        "label": "⚪ 低設定の可能性",
-        "reasons": []
-      },
-      "hyena": {
-        "target": false,
-        "reason": "データなし"
-      },
+      "error": true,
       "block": "B"
     },
     {
       "dai": 190,
-      "error": false,
-      "history_count": 0,
-      "counts": {
-        "bonus": 0,
-        "big": 0,
-        "reg": 0,
-        "gosei": null
-      },
-      "current_diff": null,
-      "setting6": {
-        "score": 0,
-        "label": "⚪ 低設定の可能性",
-        "reasons": []
-      },
-      "hyena": {
-        "target": false,
-        "reason": "データなし"
-      },
+      "error": true,
       "block": "B"
     },
     {
       "dai": 191,
-      "error": false,
-      "history_count": 0,
-      "counts": {
-        "bonus": 0,
-        "big": 0,
-        "reg": 0,
-        "gosei": null
-      },
-      "current_diff": null,
-      "setting6": {
-        "score": 0,
-        "label": "⚪ 低設定の可能性",
-        "reasons": []
-      },
-      "hyena": {
-        "target": false,
-        "reason": "データなし"
-      },
+      "error": true,
       "block": "B"
     },
     {
       "dai": 192,
-      "error": false,
-      "history_count": 0,
-      "counts": {
-        "bonus": 0,
-        "big": 0,
-        "reg": 0,
-        "gosei": null
-      },
-      "current_diff": null,
-      "setting6": {
-        "score": 0,
-        "label": "⚪ 低設定の可能性",
-        "reasons": []
-      },
-      "hyena": {
-        "target": false,
-        "reason": "データなし"
-      },
+      "error": true,
       "block": "B"
     }
   ]
