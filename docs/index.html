@@ -4,20 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>ToLOVEる 設定6 & ハイエナチェッカー</title>
-<script>
-(function() {
-  var PASS = "7144";
-  var key = "tlv_auth";
-  if (sessionStorage.getItem(key) !== "ok") {
-    var input = prompt("パスワードを入力してください");
-    if (input !== PASS) {
-      document.documentElement.innerHTML = "<body style='background:#000;color:#fff;font-family:sans-serif;padding:40px;text-align:center'><h2>認証失敗</h2><p>ページを再読み込みして再試行してください</p></body>";
-      throw new Error("auth failed");
-    }
-    sessionStorage.setItem(key, "ok");
-  }
-})();
-</script>
+
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body {
@@ -142,7 +129,7 @@ h1 { font-size: 16px; color: #e94560; margin-bottom: 4px; }
 </head>
 <body>
 <h1>🎰 ToLOVEる チェッカー</h1>
-<div class="updated">最終更新: 2026-03-13 02:42（約30分遅れ）</div>
+<div class="updated">最終更新: 2026-03-13 02:43（約30分遅れ）</div>
 
 <div class="summary">
   <h2>📋 注目台まとめ</h2>
