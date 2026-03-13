@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-13 15:30",
+  "updated": "2026-03-13 16:00",
   "machines": [
     {
       "dai": 178,
@@ -11,7 +11,7 @@
         "reg": 0,
         "gosei": 109.7
       },
-      "current_diff": 0,
+      "current_diff": -247,
       "setting6": {
         "score": 0,
         "label": "⚪ 低設定の可能性",
@@ -28,14 +28,14 @@
     {
       "dai": 179,
       "error": false,
-      "history_count": 2,
+      "history_count": 5,
       "counts": {
-        "bonus": 2,
-        "big": 1,
-        "reg": 1,
-        "gosei": 82.0
+        "bonus": 5,
+        "big": 3,
+        "reg": 2,
+        "gosei": 53.8
       },
-      "current_diff": -186,
+      "current_diff": 52,
       "setting6": {
         "score": 0,
         "label": "⚪ 低設定の可能性",
@@ -52,14 +52,14 @@
     {
       "dai": 180,
       "error": false,
-      "history_count": 5,
+      "history_count": 11,
       "counts": {
-        "bonus": 6,
-        "big": 4,
-        "reg": 2,
-        "gosei": 61.7
+        "bonus": 11,
+        "big": 7,
+        "reg": 4,
+        "gosei": 41.8
       },
-      "current_diff": 433,
+      "current_diff": 1608,
       "setting6": {
         "score": 0,
         "label": "⚪ 低設定の可能性",
@@ -124,14 +124,14 @@
     {
       "dai": 183,
       "error": false,
-      "history_count": 14,
+      "history_count": 16,
       "counts": {
-        "bonus": 14,
-        "big": 9,
-        "reg": 5,
-        "gosei": 115.7
+        "bonus": 16,
+        "big": 10,
+        "reg": 6,
+        "gosei": 114.1
       },
-      "current_diff": -1289,
+      "current_diff": -1557,
       "setting6": {
         "score": 6,
         "label": "🔴 設定6有力",
@@ -143,7 +143,7 @@
       "hyena": {
         "target": true,
         "reasons": [
-          "✅ 有利区間差枚 -1289枚（優遇状態）"
+          "✅ 有利区間差枚 -1557枚（優遇状態）"
         ]
       },
       "block": "A"
@@ -151,23 +151,26 @@
     {
       "dai": 184,
       "error": false,
-      "history_count": 3,
+      "history_count": 6,
       "counts": {
-        "bonus": 3,
-        "big": 2,
-        "reg": 1,
-        "gosei": 264.7
+        "bonus": 6,
+        "big": 4,
+        "reg": 2,
+        "gosei": 192.0
       },
-      "current_diff": -742,
+      "current_diff": -969,
       "setting6": {
-        "score": 0,
-        "label": "⚪ 低設定の可能性",
-        "reasons": []
+        "score": 3,
+        "label": "🟡 要注目",
+        "reasons": [
+          "250G以降BIG当選が2回",
+          "650Gゾーン/天井当選が1回"
+        ]
       },
       "hyena": {
         "target": true,
         "reasons": [
-          "✅ 有利区間差枚 -742枚（優遇状態）"
+          "✅ 有利区間差枚 -969枚（優遇状態）"
         ]
       },
       "block": "A"
@@ -300,21 +303,21 @@
         "bonus": 26,
         "big": 17,
         "reg": 9,
-        "gosei": 97.2
+        "gosei": 110.8
       },
-      "current_diff": -268,
+      "current_diff": -856,
       "setting6": {
         "score": 5,
         "label": "🟡 要注目",
         "reasons": [
           "250G以降BIG当選が4回（優遇パターン多数）",
-          "ジグザグあり（反転5回, 振れ幅1495枚）"
+          "ジグザグあり（反転5回, 振れ幅1640枚）"
         ]
       },
       "hyena": {
-        "target": false,
+        "target": true,
         "reasons": [
-          "△ 有利区間差枚 -268枚（やや優遇）"
+          "✅ 有利区間差枚 -856枚（優遇状態）"
         ]
       },
       "block": "B"
