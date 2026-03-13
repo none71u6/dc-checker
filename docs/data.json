@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-13 13:00",
+  "updated": "2026-03-13 13:30",
   "machines": [
     {
       "dai": 178,
@@ -129,9 +129,9 @@
         "bonus": 4,
         "big": 2,
         "reg": 2,
-        "gosei": 126.5
+        "gosei": 225.3
       },
-      "current_diff": -691,
+      "current_diff": -1351,
       "setting6": {
         "score": 0,
         "label": "⚪ 低設定の可能性",
@@ -140,7 +140,7 @@
       "hyena": {
         "target": true,
         "reasons": [
-          "✅ 有利区間差枚 -691枚（優遇状態）"
+          "✅ 有利区間差枚 -1351枚（優遇状態）"
         ]
       },
       "block": "A"
@@ -297,9 +297,9 @@
         "bonus": 10,
         "big": 7,
         "reg": 3,
-        "gosei": 86.7
+        "gosei": 128.6
       },
-      "current_diff": 227,
+      "current_diff": -433,
       "setting6": {
         "score": 2,
         "label": "⚪ 低設定の可能性",
@@ -310,7 +310,7 @@
       "hyena": {
         "target": false,
         "reasons": [
-          "現時点では狙い目なし"
+          "△ 有利区間差枚 -433枚（やや優遇）"
         ]
       },
       "block": "B"
